@@ -1,0 +1,8 @@
+com\geometry\Shape.class
+com\geometry\threed\Cube.class
+com\geometry\utils\Utils.class
+com\geometry\App.class
+com\geometry\threed\ThreeDShape.class
+com\geometry\Rectangle.class
+com\geometry\Circle.class
+com\geometry\Triangle.class
