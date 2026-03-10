@@ -1,0 +1,3 @@
+com\geometry\shape3d\Cube.class
+com\geometry\shape3d\Sphere.class
+com\geometry\shape3d\ThreeDShape.class

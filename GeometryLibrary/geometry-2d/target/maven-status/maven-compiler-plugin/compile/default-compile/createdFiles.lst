@@ -1,0 +1,4 @@
+com\geometry\shape2d\Circle.class
+com\geometry\shape2d\Shape.class
+com\geometry\shape2d\Rectangle.class
+com\geometry\shape2d\Triangle.class
